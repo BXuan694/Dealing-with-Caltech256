@@ -1,4 +1,4 @@
-# dealingWithCaltech256
+# Dealing-with-Caltech256
 This is to generate .txt file of Caltech256 jpg paths with their labels as well as PyTorch Dataloader. (https://authors.library.caltech.edu/7694/)
 
 You should have prepared Caltech-256 dataset from https://authors.library.caltech.edu/7694/. 
